@@ -11,8 +11,11 @@ This is a simple AI-powered image generation web app built using **React** and p
 - Uses **Context API** for state management
 - Clean and responsive UI
 
+## a video preview
+
 ## Set up your .env
 
 VITE_STABILITY_API_URL=https://api.stability.ai/v2beta/stable-image/generate/core
 VITE_STABILITY_API_KEY=your_api_key_here
+
 
