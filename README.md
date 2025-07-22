@@ -1,12 +1,18 @@
-# React + Vite
+# 🧠 AI Image Generator 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple AI-powered image generation web app built using **React** and powered by **Stability AI** or other image generation APIs like **Hugging Face**. Enter a prompt, choose your desired settings, and watch your imagination come to life as AI generates unique images for you.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Input custom prompts to generate images
+- Choose model, width, height, and number of samples
+- Built with **React + Vite**
+- Modular and organized component structure
+- Uses **Context API** for state management
+- Clean and responsive UI
 
-## Expanding the ESLint configuration
+## Set up your .env
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+VITE_STABILITY_API_URL=https://api.stability.ai/v2beta/stable-image/generate/core
+VITE_STABILITY_API_KEY=your_api_key_here
+
