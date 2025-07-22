@@ -1,0 +1,26 @@
+
+.fullpage {
+  background-color: rgb(210, 210, 249);
+  min-height: 100vh; 
+  padding: 2rem 0;    
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.internal {
+  background-color: white;
+  width: 65%;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+.dark {
+  background-color: rgb(71, 66, 66) !important;
+  color: white !important;
+}
+
+.light {
+  background-color: white !important;
+  color: grey !important;
+}
