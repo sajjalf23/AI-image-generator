@@ -12,6 +12,7 @@ This is a simple AI-powered image generation web app built using **React** and p
 - Clean and responsive UI
 
 ## a video preview
+https://github.com/sajjalf23/AI-image-generator/blob/main/Img%20generator.mp4
 
 ## Set up your .env
 
