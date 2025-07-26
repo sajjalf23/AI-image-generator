@@ -1,6 +1,6 @@
 # 🧠 AI Image Generator 🎨
 
-This is a AI-powered image generation web app built using **React** and powered by **Stability AI** or other image generation APIs like **Hugging Face**. Enter a prompt, choose your desired settings, and watch your imagination come to life as AI generates unique images for you.
+This is a AI-powered image generation web app built using **React** and powered by **Stability AI**. Enter a prompt, choose your desired settings, and watch your imagination come to life as AI generates unique images for you.
 
 ## 🚀 Features
 
