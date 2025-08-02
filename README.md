@@ -1,6 +1,6 @@
 # 🧠 AI Image Generator 🎨
 
-This is a AI-powered image generation web app built using **React** and powered by **Stability AI**. Enter a prompt, choose your desired settings, and watch your imagination come to life as AI generates unique images for you.
+This is a AI-powered image generation web app built using **REACT** and powered by **STABILITY AI**. Enter a prompt, choose your desired settings, and watch your imagination come to life as AI generates unique images for you.
 
 ## 🚀 Features
 
@@ -8,7 +8,7 @@ This is a AI-powered image generation web app built using **React** and powered 
 - Choose model, width, height, and number of samples
 - Built with **React + Vite**
 - Modular and organized component structure
-- Uses **Context API** for state management
+- Uses **CONTEXT API** for state management
 - Clean and responsive UI
 
 ## a video preview
